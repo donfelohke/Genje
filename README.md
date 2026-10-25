@@ -1,5 +1,9 @@
 # GENJE — Genge, Livecoding, Movement and Choreohacking
 
+**Author:** Feloh Warena · [@donfelohke](https://x.com/donfelohke) · [Instagram](https://www.instagram.com/donfelohke/)  
+**Pillar:** GLORY · GENJE ZA WARENA — The Fire of the Formidable  
+Public creative tags include E-Genge, Algorave, Laban, choreohack (as stated on X/IG).
+
 GENJE / GENJE ZA WARENA is the ecosystem's creative and embodied-practice domain. It brings together Genge and AfroTech cultural practice, livecoding, music and audiovisual performance, movement, and choreohacking.
 
 ## Practice principles
@@ -32,7 +36,8 @@ Where relevant, record source commit, tool versions, runtime/environment, hardwa
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — beauty craft and transaction boundary.
 - [Public site](https://github.com/donfelohke/donfelohke.github.io) — public presentation.
 
-**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**
+**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**  
+Commercial enquiries: [WhatsApp 0719 635 415](https://wa.me/254719635415).
 
 ## Current status
 
