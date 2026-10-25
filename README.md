@@ -6,6 +6,11 @@ Public creative tags include E-Genge, Algorave, Laban, choreohack (as stated on 
 
 GENJE / GENJE ZA WARENA is the ecosystem's creative and embodied-practice domain. It brings together Genge and AfroTech cultural practice, livecoding, music and audiovisual performance, movement, and choreohacking.
 
+**Public-facing description:** *GENJE ZA WARENA — Penye NIA, Pana Njia.* GENJE is where Genge, AfroTech, livecoding and embodied movement meet as authored creative practice. It documents how works are made, performed, credited and revisited; it does not treat culture or bodies as generic training data.
+
+For public portfolios, link only to work that can be attributed and shared. Label each item as research, concept, prototype, historical or released; do not imply a performance, collaboration, workshop or reproduction exists without a source record.
+
+
 ## Practice principles
 
 - Preserve human authorship, cultural context, credits, and provenance.
