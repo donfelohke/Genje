@@ -2,7 +2,7 @@
 
 **Author:** Feloh Warena · [@donfelohke](https://x.com/donfelohke) · [Instagram](https://www.instagram.com/donfelohke/)  
 **Pillar:** GLORY · GENJE ZA WARENA — The Fire of the Formidable  
-Public creative tags include E-Genge, Algorave, Laban, choreohack (as stated on X/IG).
+Public creative tags include E-Genge, Algorave, Laban, and choreohack (as stated on X/Instagram).
 
 GENJE / GENJE ZA WARENA is the ecosystem's creative and embodied-practice domain. It brings together Genge and AfroTech cultural practice, livecoding, music and audiovisual performance, movement, and choreohacking.
 
@@ -24,20 +24,17 @@ GENJE / GENJE ZA WARENA is the ecosystem's creative and embodied-practice domain
 - Workshops, educational material, and rehearsal/performance records.
 - Rights, credits, accessibility and consent notes.
 
-## Reproducibility record
+## Knowledge base and reproducibility
 
-Where relevant, record source commit, tool versions, runtime/environment, hardware, audio/visual routing, external media dependencies, performance instructions, and known differences between the original and reproduced result. A recording alone does not prove that the source is reproducible.
+Start with the [creative practice knowledge-base index](docs/knowledge-base-index.md). Where relevant, record source commit, tool versions, runtime/environment, hardware, audio/visual routing, external media dependencies, performance instructions, and known differences between the original and reproduced result. A recording alone does not prove that the source is reproducible.
 
 ## Ecosystem
 
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared canon and decision provenance.
 - [WARENA](https://github.com/donfelohke/WARENA) — reproducible computing infrastructure.
 - [IKAI](https://github.com/donfelohke/Ikai) — reflexive-compute research.
-- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — beauty craft and transaction boundary.
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — customer-facing services and business operations.
 - [Public site](https://github.com/donfelohke/donfelohke.github.io) — public presentation.
-
-**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**  
-Commercial enquiries: [WhatsApp 0719 635 415](https://wa.me/254719635415).
 
 ## Current status
 
