@@ -39,3 +39,13 @@ Start with the [creative practice knowledge-base index](docs/knowledge-base-inde
 ## Current status
 
 **Status: RESEARCH / INITIAL DOCUMENTATION BASELINE.** This repository setup does not claim that a particular performance, workshop, composition, or live system has been released or independently reproduced.
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the current cultural identity and motivating idea associated with this creative domain and replaces the earlier NIA naming frame. It is not a separate commercial division. GENJE practice includes Genge/AfroTech, live coding, music and audiovisual performance, Laban-related movement research and choreohacking.
+
+Keep the distinctions clear: FELOH is the human author and integrated practice; NAKEBUSEN is the enterprise and sole commercial interface; WARENA is the technical identity of NAKEBUSEN DIGITAL; IKAI Mirror is a reflective-computing research project. Preserve cultural context, authorship, consent and provenance. Proposed meanings of Genje, Za, Warena and Genjeness must be distinguished from documented linguistic evidence and reviewed in context.
+
+See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
