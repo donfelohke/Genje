@@ -6,11 +6,11 @@
 
 > Purpose gives direction. Practice gives it form.
 
-GENJE is the cultural and creative field of the FELOH practice: Genge-rooted aesthetics, movement, live coding / choreohacking, and the idea summarized as **GENJE ZA WARENA** — the fire of the formidable — as motivating identity, not a second shopfront.
+GENJE is the cultural and creative field of the FELOH practice: Genge-rooted aesthetics, movement, live coding / choreohacking, and **GENJE ZA WARENA** — *the fire of the formidable* — as motivating identity, not a second shopfront.
 
 Commercial beauty and systems services remain under **[NAKEBUSEN](https://donfelohke.github.io/)**.
 
-**ONLY NAKEBUSEN TRANSACTS.**
+**An enquiry about services is not a booking.** Bookings and project scope run through NAKEBUSEN only.
 
 ---
 
@@ -21,11 +21,7 @@ Commercial beauty and systems services remain under **[NAKEBUSEN](https://donfel
 - Links to public site and corpus  
 - Clear separation from Locs and Digital commerce  
 
-What it is **not**:
-
-- A product catalogue  
-- A promise of released software  
-- A substitute for NAKEBUSEN booking  
+What it is **not**: a product catalogue · a promise of released software · a substitute for NAKEBUSEN booking.
 
 ---
 
@@ -39,31 +35,20 @@ What it is **not**:
 | **GENJE** | Embodiment · culture · creative runtime |
 | IKAI | Reflective research (separate repo) |
 
-Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living practice (GLORY/embodiment), not with price lists.
+Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living practice, not with price lists.
 
 ---
 
 ## Language notes
 
-Terms such as *genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology research and social usage notes belong in the corpus with evidence labels — not as marketing inventions.
+Terms such as *genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology and social usage notes belong in the corpus with evidence labels — not as marketing inventions.
 
 See: [feloh-corpus](https://github.com/donfelohke/feloh-corpus) evidence standards.
 
 ---
 
-## Documents
-
-| Path | Purpose |
-|------|--------|
-| [docs/IDENTITY.md](docs/IDENTITY.md) | What GENJE is and is not |
-| [docs/PRACTICE.md](docs/PRACTICE.md) | Practice domains |
-| [docs/RELATIONSHIPS.md](docs/RELATIONSHIPS.md) | Map to NAKEBUSEN / WARENA / IKAI |
-
----
-
 ## Contact for cultural / creative collaboration
 
-Through Don Feloh — same channels as the public site:  
 https://donfelohke.github.io/ · +254 719 635 415 · GitHub @donfelohke
 
 License: see [LICENSE](LICENSE).
