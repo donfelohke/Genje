@@ -43,7 +43,7 @@ Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living 
 
 Terms such as *genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology and social usage notes belong in the corpus with evidence labels — not as marketing inventions.
 
-See: [feloh-corpus](https://github.com/donfelohke/feloh-corpus) evidence standards.
+See the [feloh-corpus evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md) and [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 ---
 
