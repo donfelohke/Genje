@@ -52,3 +52,8 @@ See the [feloh-corpus evidence standards](https://github.com/donfelohke/feloh-co
 https://donfelohke.github.io/ · +254 719 635 415 · GitHub @donfelohke
 
 License: see [LICENSE](LICENSE).
+
+
+## Portfolio alignment — 2026-10
+
+GENJE embodies cultural and creative practice: Genge, movement, live coding and choreohacking. It is not a checkout or booking surface. The human remains the author; link commercial beauty and technology enquiries to NAKEBUSEN without turning cultural practice into a sales funnel.
