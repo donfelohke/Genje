@@ -8,13 +8,11 @@
 
 GENJE is the cultural and creative field of the FELOH practice: Genge-rooted aesthetics, movement, live coding / choreohacking, and **GENJE ZA WARENA** — *the fire of the formidable* — as motivating identity, not a second shopfront.
 
-Commercial beauty and systems services remain under **[NAKEBUSEN](https://donfelohke.github.io/)**.
+Commercial services remain under **[NAKEBUSEN](https://donfelohke.github.io/)**.
 
-**Public-facing description:** *GENJE ZA WARENA — Penye NIA, Pana Njia.* GENJE is where Genge, AfroTech, livecoding and embodied movement meet as authored creative practice. It documents how works are made, performed, credited and revisited; it does not treat culture or bodies as generic training data.
+**Last README alignment:** 27 October 2026.
 
-For public portfolios, link only to work that can be attributed and shared. Label each item as research, concept, prototype, historical or released; do not imply a performance, collaboration, workshop or reproduction exists without a source record.
-
-**An enquiry about services is not a booking.** Bookings and project scope run through NAKEBUSEN only.
+**An enquiry about services is not a booking.** Bookings run through NAKEBUSEN only.
 
 ---
 
@@ -25,7 +23,7 @@ For public portfolios, link only to work that can be attributed and shared. Labe
 - Links to public site and corpus  
 - Clear separation from Locs and Digital commerce  
 
-What it is **not**: a product catalogue · a promise of released software · a substitute for NAKEBUSEN booking.
+**Not:** a product catalogue · a promise of released software · a substitute for NAKEBUSEN booking.
 
 ---
 
@@ -39,25 +37,20 @@ What it is **not**: a product catalogue · a promise of released software · a s
 | **GENJE** | Embodiment · culture · creative runtime |
 | IKAI | Reflective research (separate repo) |
 
-Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living practice, not with price lists.
+Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression, not price lists.
 
 ---
 
 ## Language notes
 
-Terms such as *genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology and social usage notes belong in the corpus with evidence labels — not as marketing inventions.
+*Genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology notes belong in the corpus with evidence labels.
 
-See the [feloh-corpus evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md) and [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+[Evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
 ---
 
-## Contact for cultural / creative collaboration
+## Contact
 
 https://donfelohke.github.io/ · +254 719 635 415 · GitHub @donfelohke
 
 License: see [LICENSE](LICENSE).
-
-
-## Portfolio alignment — 2026-10
-
-GENJE embodies cultural and creative practice: Genge, movement, live coding and choreohacking. It is not a checkout or booking surface. The human remains the author; link commercial beauty and technology enquiries to NAKEBUSEN without turning cultural practice into a sales funnel.
