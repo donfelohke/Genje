@@ -10,6 +10,10 @@ GENJE is the cultural and creative field of the FELOH practice: Genge-rooted aes
 
 Commercial beauty and systems services remain under **[NAKEBUSEN](https://donfelohke.github.io/)**.
 
+**Public-facing description:** *GENJE ZA WARENA — Penye NIA, Pana Njia.* GENJE is where Genge, AfroTech, livecoding and embodied movement meet as authored creative practice. It documents how works are made, performed, credited and revisited; it does not treat culture or bodies as generic training data.
+
+For public portfolios, link only to work that can be attributed and shared. Label each item as research, concept, prototype, historical or released; do not imply a performance, collaboration, workshop or reproduction exists without a source record.
+
 **An enquiry about services is not a booking.** Bookings and project scope run through NAKEBUSEN only.
 
 ---
