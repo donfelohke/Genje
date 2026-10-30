@@ -2,6 +2,11 @@
 
 **Status: RESEARCH / INITIAL DOCUMENTATION BASELINE.** This index organises creative work; it does not claim that a performance, composition, workshop, or system has been released or independently reproduced.
 
+## Current identity and launch
+
+- [GENJE identity](IDENTITY.md) — authored identity, meaning and ecosystem boundaries.
+- [GENJE ZA WARENA Launch Creative Brief (2026-10-31)](GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md) — founder-led poster hierarchy, source-image roles and website reference.
+
 ## Work areas
 
 - Livecoding source, runtime, dependencies, source commit, and performance instructions.
