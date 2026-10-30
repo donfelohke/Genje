@@ -18,7 +18,7 @@ For public portfolios, link only to work that can be attributed and shared. Labe
 
 ---
 
-## What this repository is for
+## Purpose of this repository
 
 - Naming and meaning notes for GENJE / GENJE ZA WARENA  
 - Practice notes (movement, live coding, cultural computation)  
@@ -37,7 +37,7 @@ What it is **not**: a product catalogue · a promise of released software · a s
 | NAKEBUSEN | Enterprise · Locs • Digital |
 | WARENA | Systems enablement for Digital |
 | **GENJE** | Embodiment · culture · creative runtime |
-| IKAI | Reflective research (separate repo) |
+| IKAI | Reflective research (separate repository) |
 
 Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living practice, not with price lists.
 
@@ -57,6 +57,7 @@ https://donfelohke.github.io/ · +254 719 635 415 · GitHub @donfelohke
 
 License: see [LICENSE](LICENSE).
 
+---
 
 ## Portfolio alignment — 2026-10
 
