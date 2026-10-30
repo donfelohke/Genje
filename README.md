@@ -1,68 +1,77 @@
 # GENJE / GENJE ZA WARENA
 
-**Creative practice · living culture · embodiment**  
+**Creative practice · living culture · embodied computation**  
 **Not a checkout brand**  
-**Author:** [@donfelohke](https://github.com/donfelohke) · #HisGenjeness
+**Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke) · #HisGenjeness
 
-> Purpose gives direction. Practice gives it form.
+> **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
+> **Penye NIA, Pana Njia.**
 
-GENJE is the cultural and creative field of the FELOH practice: Genge-rooted aesthetics, movement, live coding / choreohacking, and **GENJE ZA WARENA** — *the fire of the formidable* — as motivating identity, not a second shopfront.
+GENJE is the cultural and creative field of the FELOH practice: Genge-rooted sound and aesthetics, AfroTech, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It is an authored practice in which sound, code and embodied movement can meet without reducing culture or people to generic data.
 
-Commercial beauty and systems services remain under **[NAKEBUSEN](https://donfelohke.github.io/)**.
+“The Fire of the Formidable” is the adopted creative interpretation and identity line. It is not presented as a verified universal translation or etymological claim. Questions about ordinary usage and etymology require contextual evidence.
 
-**Public-facing description:** *GENJE ZA WARENA — Penye NIA, Pana Njia.* GENJE is where Genge, AfroTech, livecoding and embodied movement meet as authored creative practice. It documents how works are made, performed, credited and revisited; it does not treat culture or bodies as generic training data.
+## What this repository is for
 
-For public portfolios, link only to work that can be attributed and shared. Label each item as research, concept, prototype, historical or released; do not imply a performance, collaboration, workshop or reproduction exists without a source record.
+- Creative identity, visual direction and campaign briefs.
+- Genge/AfroTech research and cultural context.
+- Algorithmic music, livecoding and audiovisual practice.
+- Movement research, choreography, Laban-informed notation and choreohacking.
+- Work records, performance documentation, credits and provenance.
+- Links to shared canon, approved assets and related projects.
 
-**An enquiry about services is not a booking.** Bookings and project scope run through NAKEBUSEN only.
+GENJE is **not** a separate company, product catalogue, checkout or booking surface. **NAKEBUSEN remains the parent enterprise and only commercial interface.** WARENA remains the distinct systems-engineering identity powering NAKEBUSEN DIGITAL.
 
----
+## Creative design language
 
-## Current launch brief
+The design should feel authored, rhythmically alive and culturally situated: Genge energy, African sonic and material references, embodied gesture, computational pattern and considered editorial composition. The working visual vocabulary includes Ghetto-Luxe Dark Academia and Silicon Savannah neo-naturalism. These are directional references, not permission to flatten diverse African cultures into a single aesthetic.
 
-The current website-launch campaign direction is documented in [GENJE ZA WARENA — Launch Creative Brief (2026-10-31)](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). It establishes the founder portrait as the dominant image, six supporting image references, and the website as the governing public reference. It does not imply the source images are committed or rights-cleared.
+Use strong hierarchy, deliberate negative space, tactile/earth-rooted material cues and legible typography. Avoid generic luxury templates, decorative tech clutter, forced slang, unsupported cultural claims, default Rasta shorthand, neon-AI haze and collage without compositional logic. The human creator and the work remain central.
 
-## Purpose of this repository
+## Practice areas
 
-- Naming and meaning notes for GENJE / GENJE ZA WARENA  
-- Practice notes (movement, live coding, cultural computation)  
-- Links to public site and corpus  
-- Clear separation from Locs and Digital commerce  
+- **Sound:** Genge, AfroTech, Genge Algo, Boomba Sounds & Riddims, rhythm studies and authored compositions.
+- **Live systems:** TidalCycles, SuperCollider and Hydra are tools in the explored practice; their mention does not prove a particular setup is installed or a work released.
+- **Movement:** dance, choreography, improvisation, Laban-informed study, LabanEditor and Odi+ exploration.
+- **Choreohacking:** experiments connecting movement scores, timing, sound, code and performance.
+- **Documentation:** preserve context, collaborators, versions, rights, consent, observations and limits.
 
-What it is **not**: a product catalogue · a promise of released software · a substitute for NAKEBUSEN booking.
+## Maturity and evidence
 
----
+Label each work accurately: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED` or `UNKNOWN`. A concept, document, source file, repository or recording is not by itself proof of a released system or reproducible performance. Record what was actually tested or performed.
 
-## Position in the architecture
+## Ecosystem position
 
-| Layer | Role |
-|-------|------|
-| FELOH | Human author / integrated practice |
-| NAKEBUSEN | Enterprise · Locs • Digital |
-| WARENA | Systems enablement for Digital |
-| **GENJE** | Embodiment · culture · creative runtime |
-| IKAI | Reflective research (separate repository) |
+| Identity | Responsibility |
+|---|---|
+| FELOH / Don Feloh | Human author and integrated practice |
+| NAKEBUSEN | Parent enterprise and only commercial interface |
+| NAKEBUSEN LOCS | Beauty craft and loc care |
+| NAKEBUSEN DIGITAL | Practical digital services |
+| WARENA | Systems engineering identity |
+| **GENJE** | Cultural identity and creative practice |
+| IKAI | Reflective-compute research |
+| FELOH Corpus | Shared canon, evidence and decisions |
+| Gallery | Asset provenance, permissions and approval |
 
-Signature: **GRACE · GRIT · GLORY** — GENJE sits with expression and living practice, not with price lists.
+GENJE and WARENA are related through creative and infrastructural practice, but they are distinct domains. GENJE is not a WARENA product or division.
 
----
+## Current launch reference
 
-## Language notes
+See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). The campaign is founder-led: the authentic founder portrait is the primary human anchor; six supporting source images provide secondary visual material; the website is the governing public reference and destination. The brief does not itself clear or approve any image.
 
-Terms such as *genje* and *warena* appear in Sheng/Swahili social use with layered meanings. This project uses **GENJE ZA WARENA** as an authored identity frame. Etymology and social usage notes belong in the corpus with evidence labels — not as marketing inventions.
+## Shared references
 
-See the [feloh-corpus evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md) and [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+- [FELOH Corpus — current portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
+- [FELOH Corpus — canonical architecture baseline](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN)
+- [WARENA](https://github.com/donfelohke/WARENA)
+- [IKAI](https://github.com/donfelohke/Ikai)
+- [Gallery](https://github.com/donfelohke/Gallery)
+- [Public website](https://donfelohke.github.io/) — reference/destination only; this repository update does not modify it.
 
----
+## Contact and commercial boundary
 
-## Contact for cultural / creative collaboration
-
-https://donfelohke.github.io/ · +254 719 635 415 · GitHub @donfelohke
+Creative identity and portfolio: [@donfelohke](https://github.com/donfelohke). Commercial beauty and digital enquiries route through NAKEBUSEN, not GENJE. An enquiry is not a booking.
 
 License: see [LICENSE](LICENSE).
-
----
-
-## Portfolio alignment — 2026-10
-
-GENJE embodies cultural and creative practice: Genge, movement, live coding and choreohacking. It is not a checkout or booking surface. The human remains the author; link commercial beauty and technology enquiries to NAKEBUSEN without turning cultural practice into a sales funnel.
