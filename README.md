@@ -18,6 +18,10 @@ For public portfolios, link only to work that can be attributed and shared. Labe
 
 ---
 
+## Current launch brief
+
+The current website-launch campaign direction is documented in [GENJE ZA WARENA — Launch Creative Brief (2026-10-31)](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). It establishes the founder portrait as the dominant image, six supporting image references, and the website as the governing public reference. It does not imply the source images are committed or rights-cleared.
+
 ## Purpose of this repository
 
 - Naming and meaning notes for GENJE / GENJE ZA WARENA  
