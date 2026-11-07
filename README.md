@@ -81,3 +81,7 @@ License: see [LICENSE](LICENSE).
 ## Before Africa — livity and embodied knowledge
 
 Research note on oral knowledge, rhythm, movement, craft and collective memory. Livity is treated with historical precision as a Rastafari-associated term and contemporary interpretive lens, not a universal ancient African doctrine. [Read the research note](docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md).
+
+## Workstation infrastructure reference — 2026-11
+
+GENJE's livecoding, audiovisual and movement practice may use WARENA-maintained workstation infrastructure; desktop tooling is infrastructure, not cultural identity or a GENJE product. The current technical evaluation is recorded in [WARENA's desktop-stack decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). All listed configurations remain RESEARCH until tested and evidenced.
