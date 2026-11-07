@@ -75,3 +75,9 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 Creative identity and portfolio: [@donfelohke](https://github.com/donfelohke). Commercial beauty and digital enquiries route through NAKEBUSEN, not GENJE. An enquiry is not a booking.
 
 License: see [LICENSE](LICENSE).
+
+---
+
+## Before Africa — livity and embodied knowledge
+
+Research note on oral knowledge, rhythm, movement, craft and collective memory. Livity is treated with historical precision as a Rastafari-associated term and contemporary interpretive lens, not a universal ancient African doctrine. [Read the research note](docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md).
