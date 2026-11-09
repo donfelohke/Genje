@@ -20,3 +20,10 @@ GENJE applies the canonical policy to music, sound, samples, livecoding, audiovi
 ## Licensing boundary
 
 The existing GPL-3.0 repository licence does not automatically cover third-party music, samples, recordings, photographs, artwork or participant performances. Record asset-specific rights in the manifest or work record. Do not infer permission from public availability.
+
+
+## Creative code and media laundering
+
+The prohibition on laundering applies to livecoding patches, generative systems, sample libraries, scores, choreography notes, recordings, text, images and audiovisual assets. Do not feed unreleased collaborator work, private rehearsal recordings, restricted samples or unlicensed creative code into AI tools to generate a substitute that is then presented as independently authored. Record source creator, work/version, licence or permission, transformations, collaborator roles and material AI assistance.
+
+A transformed sample, translated patch, remixed image or generated variation does not automatically lose the original creator's rights or attribution. Where provenance or consent is unresolved, withhold the work from release and preserve the uncertainty in its work record.
