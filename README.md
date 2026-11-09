@@ -85,3 +85,8 @@ Research note on oral knowledge, rhythm, movement, craft and collective memory. 
 ## Workstation infrastructure reference — 2026-11
 
 GENJE's livecoding, audiovisual and movement practice may use WARENA-maintained workstation infrastructure; desktop tooling is infrastructure, not cultural identity or a GENJE product. The current technical evaluation is recorded in [WARENA's desktop-stack decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). All listed configurations remain RESEARCH until tested and evidenced.
+
+
+## Algorave and live-coding practice reference
+
+The [Algorave community guidelines](https://github.com/Algorave/guidelines/blob/master/README_en.md) inform GENJE's approach to visible algorithmic process, artistic diversity, accessibility, safety and community-building. They are community guidance, not a universal format or legal standard. See the [GENJE live-coding and cultural practice note](docs/ALGOrAVE-LIVE-CODING-AND-CULTURAL-PRACTICE-2026-11.md). UNESCO's [General History of Africa](https://www.unesco.org/en/general-history-africa) is a major historical research gateway, not a substitute for regional scholarship or primary evidence. The cross-domain source metadata is maintained in the [FELOH Corpus reference map](https://github.com/donfelohke/feloh-corpus/blob/main/docs/foundational-reference-map-2026-11.md).
