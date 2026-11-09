@@ -85,3 +85,8 @@ Research note on oral knowledge, rhythm, movement, craft and collective memory. 
 ## Workstation infrastructure reference — 2026-11
 
 GENJE's livecoding, audiovisual and movement practice may use WARENA-maintained workstation infrastructure; desktop tooling is infrastructure, not cultural identity or a GENJE product. The current technical evaluation is recorded in [WARENA's desktop-stack decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). All listed configurations remain RESEARCH until tested and evidenced.
+
+ 
+## Movement notation and choreohacking research
+
+GENJE's movement practice now has a bounded [Labanotation and movement-score research note](docs/LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md). It distinguishes Labanotation/Kinetography Laban, Motif notation, Laban Movement Analysis and Bartenieff Fundamentals. The reference supports movement documentation and creative inquiry; it does not reduce performers or cultural practices to automated data, nor claim a working motion-capture or notation-interpreter system.
