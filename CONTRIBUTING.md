@@ -11,6 +11,7 @@ Describe:
 - Technical tools, versions, hardware, dependencies and source references where relevant.
 - Any third-party music, samples, images, video, code, recordings or other materials.
 - Consent, privacy, licensing and distribution restrictions.
+- Material AI assistance, source assets and human editorial review, where applicable.
 
 ## Media and performance material
 
@@ -20,6 +21,7 @@ Describe:
 - Do not publish private rehearsal footage, messages, contact details, credentials or identifiable participant information without appropriate permission.
 - Do not present generated or illustrative material as documentary evidence.
 - Do not imply a performance, collaboration, workshop, client result or release exists without a source record.
+- Follow [AI Assistance, Human Authorship and Creative Provenance](AI-ASSISTED-DEVELOPMENT.md); do not use generative rewriting to disguise unauthorised source material.
 
 ## Reproducibility and validation
 
