@@ -47,3 +47,8 @@ Credit collaborators and upstream projects. Confirm permissions and licence term
 ## Evidence discipline
 
 Keep cited facts, interpretation, testimony, memory and creative intention distinct. Retain context and uncertainty; do not flatten people or traditions into generic datasets. Never publish private participant details or credentials.
+
+ 
+## Movement notation and embodied practice
+
+- [Labanotation and movement-score research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) — notation concepts, Motif distinction, choreohacking protocol, cultural context and consent boundaries.
