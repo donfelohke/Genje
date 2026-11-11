@@ -14,10 +14,16 @@
 6. Distinguish research notes, rehearsal, improvisation, prototype, performance and released work.
 7. Reproducibility is a claim to evidence, not an aesthetic aspiration. Document versions, environment and observed results when claiming it.
 8. Preserve uncertainty and provenance; do not convert a brand interpretation into linguistic fact.
+9. Treat livecoding as a broad creative field, not a single toolchain or genre. Document the relationship between algorithmic process, sound, visuals, bodies, audience and place.
+10. Build participation through accessibility, collaboration, safety, affordability and respect for the communities from which practices emerge.
 
 ## Creative field
 
 GENJE holds Genge-rooted aesthetics and sound, AfroTech, algorithmic music, livecoding, audiovisual experimentation, dance, choreography, Laban-informed movement research and choreohacking. These are connected strands of a living practice, not proof that every tool or method is currently implemented.
+
+## Livecoding and community reference
+
+[Algorave — General Guidelines](algorave-guidelines-and-livecoding-reference-2026-11.md) is a community-sourced reference for visible algorithmic process, artistic plurality, reduced hierarchy, diversity, affordability, safe spaces and local/online community building. It informs GENJE's study and event planning; it is not an official definition of GENJE, Genge or Kenyan creative practice, and does not imply Algorave endorsement.
 
 ## Naming and meaning
 
