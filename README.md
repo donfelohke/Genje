@@ -60,6 +60,10 @@ GENJE and WARENA are related through creative and infrastructural practice, but 
 
 See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). The campaign is founder-led: the authentic founder portrait is the primary human anchor; six supporting source images provide secondary visual material; the website is the governing public reference and destination. The brief does not itself clear or approve any image.
 
+## Spatial and embodied interaction research
+
+- [Embodied spatial interaction research (2026-11-14)](docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) — GENJE's scoped contribution to IKAI MIRROR+ research: movement, choreography, livecoding and participant-authored interaction. Research only; no sensing or tracking implementation is claimed.
+
 ## Shared references
 
 - [FELOH Corpus — current portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
