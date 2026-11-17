@@ -107,3 +107,9 @@ GENJE's livecoding, audiovisual and movement practice may use WARENA-maintained 
 GENJE's WARENA-governed computing infrastructure follows the native-first, libre-first and local-first policy. JavaScript is prohibited as a language, runtime, framework or dependency; web technologies are not to become the application/runtime substrate. Livecoding, audio, graphics and movement tools must be evaluated on their actual native interfaces, licences, reproducibility and evidence. This policy does not turn research candidates into approved dependencies.
 
 See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) and the [FELOH Corpus technology policy](https://github.com/donfelohke/feloh-corpus/blob/main/docs/technology-policy-2026-11-17.md).
+
+
+## Movement notation and livecoding research
+
+- [Labanotation and movement-score research](docs/LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) — notation traditions, choreohacking, practitioner interpretation, consent and cultural-context safeguards.
+- [Algorave guidelines and livecoding reference](docs/algorave-guidelines-and-livecoding-reference-2026-11.md) — community-sourced livecoding practice guidance, event planning and provenance. This is a reference, not an endorsement or a definition of GENJE.

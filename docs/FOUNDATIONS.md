@@ -36,3 +36,12 @@ Meanings and social usage of *Genje*, *Warena*, *Za* and *Genjeness* remain rese
 - **Gallery:** asset provenance, permissions and approvals.
 
 GENJE supports the expression and living practice strand of **GRACE · GRIT · GLORY**; it does not replace NAKEBUSEN or WARENA.
+
+
+## Livecoding and community reference
+
+[Algorave — General Guidelines](algorave-guidelines-and-livecoding-reference-2026-11.md) is a community-sourced reference for visible algorithmic process, artistic plurality, reduced hierarchy, diversity, affordability, safe spaces and local/online community building. It informs GENJE's study and event planning; it is not an official definition of GENJE, Genge or Kenyan creative practice, and does not imply Algorave endorsement.
+
+## Movement notation and embodied documentation
+
+GENJE may use movement notation as one tool for preserving sequence, timing, spatial relations and choreographic structure. Labanotation/Kinetography Laban, Motif notation, Laban Movement Analysis and Bartenieff Fundamentals are related but distinct traditions. The [movement-score research note](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) sets terminology, authorship, consent and cultural-context boundaries. A score does not fully encode a performer's intention, lived experience or cultural meaning.
