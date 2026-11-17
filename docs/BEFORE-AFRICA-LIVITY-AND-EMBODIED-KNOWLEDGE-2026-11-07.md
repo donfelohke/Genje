@@ -51,3 +51,19 @@ Document the artist, community, location, language, date, collaborators, source,
 - Nature 2025 Takarkori Green Sahara genomes; Nature 2026 southern African genomes (see corpus brief)
 
 **Maturity:** RESEARCH. Not a product claim.
+
+
+## Research resources and source discipline — 11 November 2026
+
+**Canonical annotated references and materials register:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/research-briefs/before-africa-source-catalogue-2026-11.md
+
+Use the corpus source catalogue for primary archaeology, ancient-DNA studies, language scholarship, oral-history methodology, institutional heritage records and research-governance resources. The corpus master dossier remains the canonical framework; this GENJE note owns only its creative-practice and embodied-knowledge interpretation.
+
+When connecting archaeological or population-history research to living practice:
+- Do not infer a direct line of cultural descent from an ancient artefact to a contemporary performance form without independent evidence.
+- Attribute each song, movement vocabulary, instrument, craft technique or oral account to its documented community, language, place, period and knowledge holders.
+- Record permissions, collaboration, transformations and restrictions; do not republish sacred or community-held material without authority.
+- Distinguish historical evidence, living testimony, contemporary interpretation and artistic response.
+- Treat genomic ancestry as contextual population history, never as a measure of cultural authenticity or artistic legitimacy.
+
+**Maturity:** RESEARCH. No product or release claim.
