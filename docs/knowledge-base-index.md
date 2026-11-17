@@ -14,9 +14,9 @@
 
 - **Genge / AfroTech research:** source references, context, interpretation and evidence.
 - **Sound and rhythm:** composition, Genge Algo, Boomba Sounds & Riddims, rhythm studies and original material.
-- **Livecoding:** source, runtime, dependencies, exact commit and performance instructions.
+- **Livecoding:** [Algorave guidelines and livecoding reference](algorave-guidelines-and-livecoding-reference-2026-11.md), source, runtime, dependencies, exact commit and performance instructions.
 - **Audiovisual systems:** signal flow, routing, timing, tool versions and device constraints.
-- **Movement / choreography:** scores, spatial context, performer choices, adaptations and consent.
+- **Movement / choreography:** [Labanotation and movement-score research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md), scores, spatial context, performer choices, adaptations and consent.
 - **Choreohacking:** experiments connecting movement, sound, timing and code.
 - **Workshops / learning:** learning goals, accessibility, authorship and permissions.
 - **Release assets:** credits, provenance, licences, consent and distribution limits.
