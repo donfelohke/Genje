@@ -118,3 +118,7 @@ See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/bl
 
 - [Labanotation and movement-score research](docs/LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) — notation traditions, choreohacking, practitioner interpretation, consent and cultural-context safeguards.
 - [Algorave guidelines and livecoding reference](docs/algorave-guidelines-and-livecoding-reference-2026-11.md) — community-sourced livecoding practice guidance, event planning and provenance. This is a reference, not an endorsement or a definition of GENJE.
+
+## IKAI Mirror research relationship — 2026-11-18
+
+GENJE's contribution is the embodied-practice perspective: movement, choreography, creative interaction and participant-authored reflection. The mirror's optical design, M1 engineering and participant-facing product boundary remain IKAI-owned. No motion-capture implementation or biometric inference is implied. See [IKAI Mirror technology research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) and the [shared cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md). RESEARCH only.
