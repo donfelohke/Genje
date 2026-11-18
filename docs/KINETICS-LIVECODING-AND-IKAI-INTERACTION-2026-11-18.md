@@ -110,6 +110,6 @@ A notation, recording, sample, code fragment or performance may have distinct cr
 - [Labanotation and Movement-Score Research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md)
 - [Embodied Spatial Interaction Research](EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md)
 - [Algorave Guidelines and Livecoding Reference](algorave-guidelines-and-livecoding-reference-2026-11.md)
-- [IKAI Voice and Smart-Glasses Architecture](https://github.com/donfelohke/Ikai/pull/22)
+- [IKAI Voice and Smart-Glasses Architecture](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md)
 
 All of these remain research and practice documentation. No motion capture, automated movement analysis, XR deployment or validated dataset is claimed.
