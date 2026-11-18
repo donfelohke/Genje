@@ -74,6 +74,11 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 
 ## Spatial and embodied interaction research
 
+## Kinetics, livecoding and reflective interaction
+
+- [Kinetics, Livecoding & Reflective Interaction (2026-11-18)](docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — connects movement dynamics, notation, livecoded sound/visual streams and participant-authored reflection. Research framework only; no motion-capture implementation is claimed.
+
+
 - [Embodied spatial interaction research (2026-11-14)](docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) — GENJE's scoped contribution to IKAI MIRROR+ research: movement, choreography, livecoding and participant-authored interaction. Research only; no sensing or tracking implementation is claimed.
 
 ## Shared references
