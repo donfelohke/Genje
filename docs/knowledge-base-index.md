@@ -18,6 +18,8 @@
 - **Audiovisual systems:** signal flow, routing, timing, tool versions and device constraints.
 - **Movement / choreography:** [Labanotation and movement-score research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md), scores, spatial context, performer choices, adaptations and consent.
 - **Choreohacking:** experiments connecting movement, sound, timing and code.
+- **Kinetics / reflective interaction:** [Kinetics, Livecoding & Reflective Interaction (2026-11-18)](KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — participant-authored movement records and synchronised creative streams; no automated performer interpretation.
+
 - **Workshops / learning:** learning goals, accessibility, authorship and permissions.
 - **Release assets:** credits, provenance, licences, consent and distribution limits.
 
