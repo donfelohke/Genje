@@ -49,3 +49,27 @@ These are research concepts, not implemented GENJE features.
 IKAI may provide participant-directed reflection, spatial annotations and memory. GENJE may provide creative tasks and authored movement scores. Neither should silently determine what a movement means. Interpretation remains with the participant, performer, choreographer or explicitly authorized collaborator.
 
 See the [FELOH Corpus spatial-computing landscape](https://github.com/donfelohke/feloh-corpus/blob/main/research/ikai-mirror-spatial-computing-landscape-2026-11-14.md) and [IKAI specialist research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md).
+
+
+## Spatial and immersive XR architecture alignment — 2026-11-20
+
+GENJE's creative practice can use spatial displays and immersive XR as optional presentation and rehearsal environments. This does not turn GENJE into an XR platform, sensor service or automated movement-analysis system.
+
+The historical foundations are useful at different layers:
+- **GNU/MAVERIK** is a spatial/graphics microkernel reference. Its application-data callback model suggests that a choreographic score, authored movement record or performance model should remain owned by the creative application while spatial services provide rendering, selection, navigation and geometric queries.
+- **DEVA3** is a distributed virtual-environment reference. Its work on object behaviour and synchronization through subjectivity raises useful questions for collaborative rehearsal, distributed performance spaces and participant-specific views.
+- **OpenXR** is a native application/runtime API; **Monado** is a Linux runtime candidate. Neither supplies GENJE's choreography, cultural context or authored movement semantics.
+
+The proposed WARENA spatial architecture is the infrastructure source of record: [Desktop, Spatial Computing, Immersive XR & Opt-in Intelligence Architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+
+### GENJE constraints
+
+- Prefer scores, manual annotations, synthetic poses and prop/room fiducials before body tracking.
+- Keep choreography, notation, measured movement and interpretation as separate artefacts.
+- A performer controls capture, replay, sharing and deletion.
+- Do not infer emotion, health, identity, personality, ability or intent from movement.
+- Do not equate network synchronization with identical artistic interpretation.
+- Any audio, visual and movement timing relationship must state its clock domains and uncertainty.
+- AI-assisted creative tools, if ever evaluated, remain opt-in; the performer remains the author and approves consequential outputs.
+
+No motion-capture pipeline, immersive performance system, distributed world service or AI creative agent is claimed as implemented.
