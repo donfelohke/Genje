@@ -16,7 +16,7 @@
 - **Sound and rhythm:** composition, Genge Algo, Boomba Sounds & Riddims, rhythm studies and original material.
 - **Livecoding:** [Algorave guidelines and livecoding reference](algorave-guidelines-and-livecoding-reference-2026-11.md), source, runtime, dependencies, exact commit and performance instructions.
 - **Audiovisual systems:** signal flow, routing, timing, tool versions and device constraints.
-- **Movement / choreography:** [Movement IR and motion research (2026-11-20)](GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md) — proposed canonical event model and comparative LaMoGen, motion-generation, music-to-dance and notation research; [Labanotation and movement-score research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) remains the notation foundation.
+- **Movement / choreography:** [Technology, scholarship and industry landscape (2026-11-20)](GENJE-TECHNOLOGY-SCHOLARSHIP-INDUSTRY-LANDSCAPE-2026-11-20.md) — technology, African movement scholarship, dataset rights, commercial systems and Kenyan creative-industry evidence; [Movement IR and motion research (2026-11-20)](GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md) — proposed canonical event model and comparative LaMoGen, motion-generation, music-to-dance and notation research; [Labanotation and movement-score research](LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) remains the notation foundation.
 - **Choreohacking:** experiments connecting movement, sound, timing and code.
 - **Kinetics / reflective interaction:** [Kinetics, Livecoding & Reflective Interaction (2026-11-18)](KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — participant-authored movement records and synchronised creative streams; no automated performer interpretation.
 
