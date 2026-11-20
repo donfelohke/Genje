@@ -126,3 +126,8 @@ See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/bl
 ## IKAI Mirror research relationship — 2026-11-18
 
 GENJE's contribution is the embodied-practice perspective: movement, choreography, creative interaction and participant-authored reflection. The mirror's optical design, M1 engineering and participant-facing product boundary remain IKAI-owned. No motion-capture implementation or biometric inference is implied. See [IKAI Mirror technology research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) and the [shared cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md). RESEARCH only.
+
+
+## Sage Philosophy and embodied knowledge — 2026-11-20
+
+GENJE's oral, sonic, movement and craft research can contribute examples of embodied knowledge and transmission to a wider African intellectual-history programme. Such practices are not automatically “philosophic sagacity,” and no community, artist or practitioner should be labelled a sage without contextual evidence and their own agency. Preserve language, authorship, provenance, permissions and restrictions. The historical Oruka research is maintained by the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). This is a research connection, not a claim of direct historical continuity or a GENJE product.
