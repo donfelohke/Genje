@@ -137,12 +137,12 @@ The following projects represent different technical approaches. Their published
 | **Labanotation-from-MoCap studies** | Convert tracked motion into notation using segmentation, kinematic features and sequence models | Reverse-direction research | Automated transcription is a candidate score, not authoritative notation |
 
 Key research references:
-- [LLaMo — CVPR 2026](https://arxiv.org/search/?query=LLaMo+motion+generation&searchtype=all)
-- [LAMP — CVPR 2026](https://arxiv.org/search/?query=LAMP+motion+DSL&searchtype=all)
-- [FACT — ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_เน)
+- [LLaMo — CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Li_LLaMo_Scaling_Pretrained_Language_Models_for_Unified_Motion_Understanding_and_CVPR_2026_paper.html)
+- [LAMP — CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Kizil_LAMP_Language-Assisted_Motion_Planning_for_Controllable_Video_Generation_CVPR_2026_paper.html)
+- [FACT / AI Choreographer — ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Li_AI_Choreographer_Music_Conditioned_3D_Dance_Generation_With_AIST_ICCV_2021_paper.html)
 - [AIST++ project and dataset documentation](https://google.github.io/aistplusplus_dataset/)
 - [FineDance — ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/FineDance)
-- [DanceLDM preprint search](https://arxiv.org/search/?query=DanceLDM&searchtype=all)
+- [DanceLDM (2026)](https://doi.org/10.1007/s00530-026-02311-z)
 - [Labanotation generation from motion capture — IEEE Access (2021)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=The%20Method%20of%20Dance%20Movement%20Segmentation%20and%20Labanotation%20Generation%20Based%20on%20Rhythm)
 - [End-to-end Labanotation generation from continuous motion capture — IEEE ICME (2020)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=end-to-end%20Labanotation%20generation)
 - [LabanFormer (2023)](https://arxiv.org/search/?query=LabanFormer&searchtype=all)
@@ -341,8 +341,9 @@ No single metric can stand in for all of these.
 - [LaMoGen source repository](https://github.com/jjkislele/LaMoGen).
 - [LaMoGen CVPR supplementary material](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Jiang_LaMoGen_Language_to_CVPR_2026_supplemental.pdf).
 - [AIST++ dataset documentation and terms](https://google.github.io/aistplusplus_dataset/).
-- [FineDance, ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/FineDance).
+- [FineDance, ICCV 2023](https://li-ronghui.github.io/finedance).
 - [FACT, ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_เน).
+- [ChoreDiffusion: Beat-Aware Diffusion for Music-to-Dance Generation (2026)](https://doi.org/10.3390/info17080808).
 - [Labanotation generation from motion capture — IEEE Access search record](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Labanotation%20Generation%20Based%20on%20Rhythm).
 - [End-to-end Labanotation generation — IEEE ICME search record](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=end-to-end%20Labanotation%20generation).
 - [Labanotation / Kinetography Laban institutional resources](https://ickl.org/).
