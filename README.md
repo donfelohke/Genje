@@ -32,7 +32,7 @@ See the [FELOH Corpus name and Sheng context note](https://github.com/donfelohke
 - Work records, performance documentation, credits and provenance.
 - Links to shared canon, approved assets and related projects.
 
-GENJE is **not** a separate company, product catalogue, checkout or booking surface. **NAKEBUSEN is the ROOT domain and only live commercial practice and transaction interface.** WARENA is the distinct CAPABILITY domain for systems engineering. GENJE NODE is a WARENA manifestation, not a fifth domain.
+GENJE is **not** a separate company, product catalogue, checkout or booking surface. **NAKEBUSEN is the ROOT domain and only live commercial practice and transaction interface. ONLY NAKEBUSEN TRANSACTS.** WARENA is the distinct CAPABILITY domain for systems engineering. GENJE NODE is a WARENA manifestation, not a fifth domain.
 
 ## Creative design language
 
