@@ -131,3 +131,8 @@ GENJE's contribution is the embodied-practice perspective: movement, choreograph
 ## Sage Philosophy and embodied knowledge — 2026-11-20
 
 GENJE's oral, sonic, movement and craft research can contribute examples of embodied knowledge and transmission to a wider African intellectual-history programme. Such practices are not automatically “philosophic sagacity,” and no community, artist or practitioner should be labelled a sage without contextual evidence and their own agency. Preserve language, authorship, provenance, permissions and restrictions. The historical Oruka research is maintained by the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). This is a research connection, not a claim of direct historical continuity or a GENJE product.
+
+
+## Sage Philosophy and embodied knowledge — 2026-11-20
+
+GENJE's oral, sonic, movement and craft research can contribute examples of embodied knowledge and transmission to a wider African intellectual-history programme. Such practices are not automatically “philosophic sagacity,” and no community, artist or practitioner should be labelled a sage without contextual evidence and their own agency. Preserve language, authorship, provenance, permissions and restrictions. The historical Oruka research is maintained by the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). This is a research connection, not a claim of direct historical continuity or a GENJE product.
