@@ -49,3 +49,8 @@ Credit collaborators and upstream projects. Confirm permissions and licence term
 ## Evidence discipline
 
 Keep cited facts, interpretation, testimony, memory and creative intention distinct. Retain context and uncertainty; do not flatten people or traditions into generic datasets. Never publish private participant details or credentials.
+
+
+## Movement and music interoperability — 2026-11-20
+
+- [Movement and Music Interoperability Study](GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md) — established formats, time/clock boundaries, transformation-loss matrix and test plan. No implementation claimed.
