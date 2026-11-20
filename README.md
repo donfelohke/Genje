@@ -81,6 +81,10 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 
 - [Embodied spatial interaction research (2026-11-14)](docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) — GENJE's scoped contribution to IKAI MIRROR+ research: movement, choreography, livecoding and participant-authored interaction. Research only; no sensing or tracking implementation is claimed.
 
+## Spatial/XR infrastructure reference — 2026-11-20
+
+- [WARENA spatial/XR/opt-in AI architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) — infrastructure reference; GENJE retains movement, choreography, livecoding and performance authorship.
+
 ## Shared references
 
 - [FELOH Corpus — current portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
