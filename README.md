@@ -1,4 +1,4 @@
-# GENJE / GENJE ZA WARENA
+# GENJE — EXPRESSION · GENJE ZA WARENA
 
 **Creative practice · living culture · embodied computation**  
 **Not a checkout brand**  
@@ -7,7 +7,7 @@
 > **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 > **Penye NIA, Pana Njia.**
 
-GENJE is the cultural and creative field of the FELOH practice: Genge-rooted sound and aesthetics, AfroTech, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It is an authored practice in which sound, code and embodied movement can meet without reducing culture or people to generic data.
+GENJE is the **EXPRESSION** domain in the four-domain F3L0H architecture: Genge-rooted sound and aesthetics, AfroTech, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It is an authored practice in which sound, code and embodied movement can meet without reducing culture or people to generic data.
 
 “The Fire of the Formidable” is the adopted creative interpretation and identity line. It is not presented as a verified universal translation or etymological claim. Questions about ordinary usage and etymology require contextual evidence.
 
@@ -32,7 +32,7 @@ See the [FELOH Corpus name and Sheng context note](https://github.com/donfelohke
 - Work records, performance documentation, credits and provenance.
 - Links to shared canon, approved assets and related projects.
 
-GENJE is **not** a separate company, product catalogue, checkout or booking surface. **NAKEBUSEN remains the parent enterprise and only commercial interface.** WARENA remains the distinct systems-engineering identity powering NAKEBUSEN DIGITAL.
+GENJE is **not** a separate company, product catalogue, checkout or booking surface. **NAKEBUSEN is the ROOT domain and only live commercial practice and transaction interface.** WARENA is the distinct CAPABILITY domain for systems engineering. GENJE NODE is a WARENA manifestation, not a fifth domain.
 
 ## Creative design language
 
