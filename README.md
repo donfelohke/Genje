@@ -120,6 +120,7 @@ See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/bl
 
 ## Movement notation and livecoding research
 
+- [GENJE Movement IR and Motion Research (2026-11-20)](docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md) — proposed human-authored movement representation, LaMoGen audit, motion-generation and music-to-dance comparisons, notation adapters, provenance and practitioner safeguards.
 - [Labanotation and movement-score research](docs/LABANOTATION-MOVEMENT-SCORE-RESEARCH-2026-11.md) — notation traditions, choreohacking, practitioner interpretation, consent and cultural-context safeguards.
 - [Algorave guidelines and livecoding reference](docs/algorave-guidelines-and-livecoding-reference-2026-11.md) — community-sourced livecoding practice guidance, event planning and provenance. This is a reference, not an endorsement or a definition of GENJE.
 
