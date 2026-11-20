@@ -142,3 +142,8 @@ GENJE's oral, sonic, movement and craft research can contribute examples of embo
 ## Technology, scholarship and industry landscape — 2026-11-20
 
 - [GENJE Technology, Scholarly & Industry Landscape](docs/GENJE-TECHNOLOGY-SCHOLARSHIP-INDUSTRY-LANDSCAPE-2026-11-20.md) — research assessment of existing motion-capture and pose-estimation systems, African and global movement scholarship, datasets and licensing, creative-industry evidence, Kenyan governance, and reuse/adapt/invent decisions. Research only; no implementation or partnership claimed.
+
+
+## Movement and music interoperability — 2026-11-20
+
+- [Movement and Music Interoperability Study](docs/GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md) — comparative technical assessment of Labanotation, Motif, BVH, C3D, FBX, OSC, MIDI and TidalCycles; time-domain analysis, conversion-loss matrix, adapter contract and proposed round-trip tests. Research only; no converter or runtime integration claimed.
