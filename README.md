@@ -1,6 +1,7 @@
 # GENJE — EXPRESSION · GENJE ZA WARENA
 
 **Creative practice · living culture · embodied computation**  
+**Canonical identity:** GENJE / GENJE ZA WARENA  
 **Not a checkout brand**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke) · #HisGenjeness
 

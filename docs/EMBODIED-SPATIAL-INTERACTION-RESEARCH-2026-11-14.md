@@ -73,3 +73,28 @@ The proposed WARENA spatial architecture is the infrastructure source of record:
 - AI-assisted creative tools, if ever evaluated, remain opt-in; the performer remains the author and approves consequential outputs.
 
 No motion-capture pipeline, immersive performance system, distributed world service or AI creative agent is claimed as implemented.
+
+
+## Glass Terminal alignment — embodied spatial interaction — 2026-11-20
+
+Glass Terminal contributes a shared interface grammar; GENJE contributes creative and embodied semantics. The relationship is not a generic gesture-control layer. It is a research path for spatially situated sound, code, authored movement and performance.
+
+### GENJE contribution
+
+- Present authored movement scores, rehearsal annotations and livecoding tools in spatial contexts where useful.
+- Treat movement notation, sensor measurements and interpretation as separate artefacts.
+- Keep performer/choreographer authorship and cultural context visible.
+- Use keyboard, pointer, controllers, manual notation, props and synthetic movement as alternatives to camera-based capture.
+- Keep capture, replay, retention, sharing and deletion under performer control.
+- Show sensor uncertainty, dropout and timing uncertainty rather than silently smoothing or interpreting them.
+
+### Interaction constraints
+
+Gaze may identify a target; a hand/controller may manipulate it. Neither should silently trigger consequential actions. Provide explicit preview, execution, undo and cancellation. Do not require continuous arm elevation or repetitive mid-air gestures. Evaluate task usefulness, timing, comfort, fatigue and creative agency.
+
+No movement stream may be used to infer identity, emotion, health, personality, ability or intent. AI-assisted creative tools, if ever studied, remain opt-in and subordinate to performer authorship.
+
+The cross-project visual and interaction research record is:
+https://donfelohke.github.io/research/glass-terminal/
+
+This alignment does not claim an XR performance environment, motion-capture system, spatial audio engine or Glass Terminal implementation.
