@@ -76,3 +76,12 @@ Oruka's Kenyan Sage Philosophy Project demonstrates why individual thinkers and 
 For any field or archival work, identify the actual community, language, place, period, practitioner and context; record consent, rights, collaborators, translation and editorial interventions; distinguish testimony from scholarly interpretation; and respect restricted knowledge. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md).
 
 **Maturity:** RESEARCH. No field interviews, cultural permissions or new GENJE performance claims are implied.
+
+
+## Oral dialogue, philosophic sagacity and embodied transmission — 20 November 2026
+
+Oruka's Kenyan Sage Philosophy Project demonstrates why individual thinkers and their arguments should not disappear into anonymous descriptions of collective culture. GENJE's study of sound, movement, craft and oral performance can sit alongside this research, but the categories must remain distinct: a practice can transmit knowledge without itself being a philosophical argument, and a practitioner need not be classified as a sage for their knowledge to merit careful documentation.
+
+For any field or archival work, identify the actual community, language, place, period, practitioner and context; record consent, rights, collaborators, translation and editorial interventions; distinguish testimony from scholarly interpretation; and respect restricted knowledge. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md).
+
+**Maturity:** RESEARCH. No field interviews, cultural permissions or new GENJE performance claims are implied.
