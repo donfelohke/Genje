@@ -63,7 +63,7 @@ References:
 - C3D file structure: https://www.c3d.org/HTML/Documents/thec3dfilestructure.htm
 - Blender BVH importer/exporter: https://docs.blender.org/manual/en/latest/files/import_export/bvh.html
 - Autodesk FBX technology: https://help.autodesk.com/cloudhelp/2020/ENU/FBX-Developer-Help/files/welcome_to_the_fbx_sdk/FBX_Developer_Help_welcome_to_the_fbx_sdk_what_is_autodesk_fbx_technology_html.html
-- OSC 1.1 and temporal semantics: https://opensoundcontrol.stanford.edu/spec-1_1.html
+- OSC 1.0 published specification and temporal semantics: https://opensoundcontrol.stanford.edu/spec-1_0.html; OSC 1.1 status note (the 1.1 specification was never published in that form): https://opensoundcontrol.stanford.edu/spec-1_1.html
 - MIDI 2.0: https://midi.org/midi-2-0
 - MIDI UMP and MIDI 2.0 protocol: https://midi.org/universal-midi-packet-ump-and-midi-2-0-protocol-specification
 - TidalCycles time: https://tidalcycles.org/docs/getting-started/tutorial/
