@@ -62,16 +62,16 @@ Label each work accurately: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORI
 | Identity | Responsibility |
 |---|---|
 | FELOH / Don Feloh | Human author and integrated practice |
-| NAKEBUSEN | Parent enterprise and only commercial interface |
-| NAKEBUSEN LOCS | Beauty craft and loc care |
-| NAKEBUSEN DIGITAL | Practical digital services |
-| WARENA | Systems engineering identity |
+| NAKEBUSEN / ROOT | Physical practice, beauty, heritage, craft and the only live commercial / transaction interface |
+| IKAI / MIRROR | Reflective-computing and embodied spatial research |
+| GENJE / EXPRESSION | Genge-rooted creative and embodied practice |
+| WARENA / CAPABILITY | Systems engineering, infrastructure and technical enablement |
 | **GENJE** | Cultural identity and creative practice |
 | IKAI | Reflective-compute research |
 | FELOH Corpus | Shared canon, evidence and decisions |
 | Gallery | Asset provenance, permissions and approval |
 
-GENJE and WARENA are related through creative and infrastructural practice, but they are distinct domains. GENJE is not a WARENA product or division.
+NAKEBUSEN, IKAI, GENJE and WARENA are the four practice domains. F3L0H is the overarching human authorship identity, not a fifth domain. GENJE and WARENA are distinct domains; GENJE is not a WARENA product or division. GENJE NODE is a WARENA manifestation, not a fifth domain.
 
 ## Current launch reference
 
@@ -79,7 +79,7 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 
 ## Spatial and embodied interaction research
 
-## Kinetics, livecoding and reflective interaction
+### Kinetics, livecoding and reflective interaction
 
 - [Kinetics, Livecoding & Reflective Interaction (2026-11-18)](docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — connects movement dynamics, notation, livecoded sound/visual streams and participant-authored reflection. Research framework only; no motion-capture implementation is claimed.
 
@@ -93,7 +93,7 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 ## Shared references
 
 - [FELOH Corpus — current portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
-- [FELOH Corpus — canonical architecture baseline](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
+- [FELOH Corpus — Sovereign Master Corpus (2026-11-20)](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN)
 - [WARENA](https://github.com/donfelohke/WARENA)
 - [IKAI](https://github.com/donfelohke/Ikai)
@@ -132,11 +132,6 @@ See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/bl
 ## IKAI Mirror research relationship — 2026-11-18
 
 GENJE's contribution is the embodied-practice perspective: movement, choreography, creative interaction and participant-authored reflection. The mirror's optical design, M1 engineering and participant-facing product boundary remain IKAI-owned. No motion-capture implementation or biometric inference is implied. See [IKAI Mirror technology research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) and the [shared cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md). RESEARCH only.
-
-
-## Sage Philosophy and embodied knowledge — 2026-11-20
-
-GENJE's oral, sonic, movement and craft research can contribute examples of embodied knowledge and transmission to a wider African intellectual-history programme. Such practices are not automatically “philosophic sagacity,” and no community, artist or practitioner should be labelled a sage without contextual evidence and their own agency. Preserve language, authorship, provenance, permissions and restrictions. The historical Oruka research is maintained by the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). This is a research connection, not a claim of direct historical continuity or a GENJE product.
 
 
 ## Sage Philosophy and embodied knowledge — 2026-11-20
