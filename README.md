@@ -49,6 +49,10 @@ Use strong hierarchy, deliberate negative space, tactile/earth-rooted material c
 - **Choreohacking:** experiments connecting movement scores, timing, sound, code and performance.
 - **Documentation:** preserve context, collaborators, versions, rights, consent, observations and limits.
 
+## REFLECTION± and embodied interaction
+
+IKAI's [REFLECTION± research](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) studies bidirectional optical-computational systems. GENJE's contribution is the authored movement, choreography, livecoding and participant-led creative context—not sensor infrastructure or automated interpretation. Any movement sensing remains optional, consent-based and a research proposal until tested.
+
 ## Maturity and evidence
 
 Label each work accurately: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED` or `UNKNOWN`. A concept, document, source file, repository or recording is not by itself proof of a released system or reproducible performance. Record what was actually tested or performed.
