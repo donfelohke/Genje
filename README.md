@@ -66,8 +66,6 @@ Label each work accurately: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORI
 | IKAI / MIRROR | Reflective-computing and embodied spatial research |
 | GENJE / EXPRESSION | Genge-rooted creative and embodied practice |
 | WARENA / CAPABILITY | Systems engineering, infrastructure and technical enablement |
-| **GENJE** | Cultural identity and creative practice |
-| IKAI | Reflective-compute research |
 | FELOH Corpus | Shared canon, evidence and decisions |
 | Gallery | Asset provenance, permissions and approval |
 
@@ -92,7 +90,7 @@ See [GENJE ZA WARENA — Website Launch Creative Brief (2026-10-31)](docs/GENJE-
 
 ## Shared references
 
-- [FELOH Corpus — current portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
+- [FELOH Corpus — historical portfolio decision (2026-10-31)](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md)
 - [FELOH Corpus — Sovereign Master Corpus (2026-11-20)](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN)
 - [WARENA](https://github.com/donfelohke/WARENA)
