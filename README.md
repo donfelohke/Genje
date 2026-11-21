@@ -154,3 +154,8 @@ GENJE is **EXPRESSION**: creative practice, culture, movement, sound, livecoding
 ## Repository upgrade plan
 
 See [the Genje repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). This plan records the next maintenance and quality gates without claiming unfinished work is complete.
+
+
+## Research provenance and creative-work records — 2026-11-21
+
+Use the [GENJE source register and creative-work record templates](docs/GENJE-SOURCE-REGISTER-AND-WORK-RECORD-TEMPLATES-2026-11-21.md) to document source claims, artist interpretation, contributors, tool versions, rights, consent and work maturity. The file is a template, not evidence that any source, participant or work has been reviewed.
