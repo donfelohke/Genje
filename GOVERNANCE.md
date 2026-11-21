@@ -14,7 +14,7 @@ GENJE stewards the cultural and creative practice of the FELOH ecosystem: Genge-
 
 ## Identity and ecosystem boundary
 
-GENJE ZA WARENA — **THE FIRE OF THE FORMIDABLE** — is an authored creative identity and motivating frame, not a verified universal translation and not a separate commercial division. NAKEBUSEN remains the parent enterprise and only commercial interface. WARENA remains the distinct systems-engineering identity. GENJE does not own the commercial booking or checkout journey.
+GENJE ZA WARENA — **THE FIRE OF THE FORMIDABLE** — is an authored creative identity and motivating frame, not a verified universal translation and not a separate commercial division. GENJE is the EXPRESSION domain. NAKEBUSEN is the ROOT domain and only live commercial practice and transaction interface. WARENA is the distinct CAPABILITY domain for systems engineering and infrastructure. GENJE does not own the commercial booking or checkout journey. F3L0H is the overarching human authorship identity, not a fifth domain.
 
 ## Maturity labels
 
@@ -22,6 +22,6 @@ Use: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED`, `UN
 
 ## Change process
 
-Use focused branches and pull requests for substantive changes. Describe creative and technical intent, authorship, cultural context, assets and rights, maturity, validation performed and known limitations. Link shared identity or ecosystem decisions to the [FELOH Corpus portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md).
+Use focused branches and pull requests for substantive changes. Describe creative and technical intent, authorship, cultural context, assets and rights, maturity, validation performed and known limitations. Link shared identity or ecosystem decisions to the [FELOH Sovereign Master Corpus (2026-11-20)](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md); retain earlier portfolio decisions as dated historical records.
 
 This document records intended governance. It does not assert that a formal committee, review rota, deployment process or repository protection rule is configured.
