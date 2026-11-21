@@ -153,3 +153,7 @@ GENJE's oral, sonic, movement and craft research can contribute examples of embo
 ## Commercial and market boundary — 2026-11-20
 
 GENJE is **EXPRESSION**: creative practice, culture, movement, sound, livecoding and choreography—not a separate checkout brand. Do not treat listeners, followers, views or speculative reach as a paying market. Test distinct paid formats (performance, commission, collaboration, workshop or licensing) against actual bookings, rights, preparation, rehearsal, equipment, travel and delivery costs. The [NAKEBUSEN TAM, MVP & Sales Blueprint](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) records the ecosystem sequencing; **ONLY NAKEBUSEN TRANSACTS** for the current enterprise.
+
+## Repository upgrade plan
+
+See [the Genje repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). This plan records the next maintenance and quality gates without claiming unfinished work is complete.
