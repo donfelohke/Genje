@@ -159,3 +159,9 @@ See [the Genje repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.
 ## Research provenance and creative-work records — 2026-11-21
 
 Use the [GENJE source register and creative-work record templates](docs/GENJE-SOURCE-REGISTER-AND-WORK-RECORD-TEMPLATES-2026-11-21.md) to document source claims, artist interpretation, contributors, tool versions, rights, consent and work maturity. The file is a template, not evidence that any source, participant or work has been reviewed.
+
+
+
+## BLACK HINTERLAND — living culture and creative futures
+
+GENJE's bounded contribution is [Black Hinterland — Living Culture, Embodied Knowledge and Creative Futures (2026-11-22)](docs/BLACK-HINTERLAND-LIVITY-EMBODIED-CULTURE-AND-FUTURES-2026-11-22.md). It covers situated music, movement, oral and embodied knowledge, rights and creative futures. It does not claim direct descent from prehistoric artefacts or treat livity as a universal ancient African category. Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
