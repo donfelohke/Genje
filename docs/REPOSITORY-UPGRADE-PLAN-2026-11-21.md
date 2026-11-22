@@ -30,3 +30,9 @@ No universal etymology claim without adequate sources. No person imagery or reco
 3. Establish a consistent work-record template.
 4. Identify one bounded, testable livecoding/movement study.
 5. Publish only approved work with provenance and clear maturity labels.
+
+## Execution addendum — 2026-11-22
+
+Direct-to-main alignment and index updates were completed. GENJE's role in mirror/I/O collaboration is explicitly limited to authored movement, choreography, livecoding and creative interpretation. Links to IKAI's mirror/I/O protocol and WARENA's display pipeline study were added. No motion-capture, sensor integration or new performance is claimed.
+
+**Verification:** repository validation workflow passed. Source, rights, collaborator consent and work maturity remain mandatory for any public creative release.
