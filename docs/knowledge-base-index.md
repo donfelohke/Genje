@@ -66,3 +66,8 @@ Keep cited facts, interpretation, testimony, memory and creative intention disti
 ## Current creative research alignment — 2026-11-22
 
 See [GENJE living practice and creative systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for situated cultural research, work provenance, movement/livecoding experiment records and the boundary with IKAI and WARENA.
+
+
+## Reflective systems and real-time I/O collaboration
+
+GENJE's contribution is authored movement, choreography, livecoding and creative interpretation. See [IKAI's mirror and bidirectional I/O research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) and [WARENA's display/I/O pipeline study](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md). No motion-capture or sensor integration is claimed.
