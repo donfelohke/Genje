@@ -61,3 +61,8 @@ Keep cited facts, interpretation, testimony, memory and creative intention disti
 
 - [Black Hinterland — Living Culture, Embodied Knowledge and Creative Futures (2026-11-22)](BLACK-HINTERLAND-LIVITY-EMBODIED-CULTURE-AND-FUTURES-2026-11-22.md) — GENJE's bounded research on living cultural expression, movement, music, oral knowledge and ethical creative futures.
 - Shared history, chronology and source register: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
+
+
+## Current creative research alignment — 2026-11-22
+
+See [GENJE living practice and creative systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for situated cultural research, work provenance, movement/livecoding experiment records and the boundary with IKAI and WARENA.
