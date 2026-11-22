@@ -85,3 +85,9 @@ Oruka's Kenyan Sage Philosophy Project demonstrates why individual thinkers and 
 For any field or archival work, identify the actual community, language, place, period, practitioner and context; record consent, rights, collaborators, translation and editorial interventions; distinguish testimony from scholarly interpretation; and respect restricted knowledge. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md).
 
 **Maturity:** RESEARCH. No field interviews, cultural permissions or new GENJE performance claims are implied.
+
+
+
+## BLACK HINTERLAND alignment — 22 November 2026
+
+The integrated programme map is [BLACK HINTERLAND — BEFORE AFRICA](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). GENJE's current bounded extension is [Black Hinterland — Living Culture, Embodied Knowledge and Creative Futures](BLACK-HINTERLAND-LIVITY-EMBODIED-CULTURE-AND-FUTURES-2026-11-22.md). Livity remains a historically situated modern Rastafari-associated term, not a universal ancient African category. No direct descent from prehistoric objects to contemporary creative forms is assumed.
