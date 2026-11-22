@@ -54,3 +54,10 @@ Keep cited facts, interpretation, testimony, memory and creative intention disti
 ## Movement and music interoperability — 2026-11-20
 
 - [Movement and Music Interoperability Study](GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md) — established formats, time/clock boundaries, transformation-loss matrix and test plan. No implementation claimed.
+
+
+
+## African histories and creative futures
+
+- [Black Hinterland — Living Culture, Embodied Knowledge and Creative Futures (2026-11-22)](BLACK-HINTERLAND-LIVITY-EMBODIED-CULTURE-AND-FUTURES-2026-11-22.md) — GENJE's bounded research on living cultural expression, movement, music, oral knowledge and ethical creative futures.
+- Shared history, chronology and source register: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
