@@ -81,3 +81,8 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 **ONLY NAKEBUSEN TRANSACTS.** Keep creative works, research, rights, credits and maturity labels explicit.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Cooperative networks and embodied media — 2026-11-23
+
+- [GENJE — Cooperative Networks and Embodied Media](docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled exchange, local collaboration, movement/music interoperability, rights, consent and cooperative archive governance. Research only.
