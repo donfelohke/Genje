@@ -89,3 +89,8 @@ Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](http
 “The Fire of the Formidable” remains an authored creative interpretation, not a universal translation or settled etymology. Preserve context-sensitive Sheng usage and attribution.
 
 See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the shared brand architecture and naming-evidence policy.
+
+
+## Cooperative networks and embodied media — 2026-11-23
+
+- [GENJE — Cooperative Networks and Embodied Media](docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled exchange, local collaboration, movement/music interoperability, rights, consent and cooperative archive governance. Research only.
