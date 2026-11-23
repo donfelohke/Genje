@@ -8,8 +8,6 @@ GENJE is Don Feloh's embodied creative practice across Genge-rooted sound and ae
 
 **GENJE ZA WARENA** is an authored creative signature describing the relationship between creative expression and technical enablement. It does not make GENJE a WARENA product, subsidiary, commercial checkout or merged organisation.
 
-**Penye NIA, Pana Njia.**
-
 “The Fire of the Formidable” remains a creative interpretation, not a universal translation or established etymology. Treat genje and warena as context-sensitive Sheng expressions and keep artist attribution distinct from dictionary or historical claims.
 
 ## Practice areas
