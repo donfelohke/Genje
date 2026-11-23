@@ -94,3 +94,10 @@ See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh
 ## Cooperative networks and embodied media — 2026-11-23
 
 - [GENJE — Cooperative Networks and Embodied Media](docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled exchange, local collaboration, movement/music interoperability, rights, consent and cooperative archive governance. Research only.
+
+
+## Ecosystem alignment · 2026-11-24
+
+See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) and [GENJE ZA WARENA Creative Identity](docs/GENJE-ZA-WARENA-CREATIVE-IDENTITY-2026-11-24.md) for creative-domain boundaries, identity, evidence and provenance requirements.
+
+Canonical shared identity: [FELOH Corpus Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
