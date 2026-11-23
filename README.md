@@ -79,3 +79,5 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
 **ONLY NAKEBUSEN TRANSACTS.** Keep creative works, research, rights, credits and maturity labels explicit.
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
