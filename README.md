@@ -1,7 +1,6 @@
 # GENJE — EXPRESSION
 
 **GENJE / GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
-**Penye NIA, Pana Njia.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
 GENJE is the **EXPRESSION** domain in the F3L0H practice: Genge-rooted sound and aesthetics, AfroTech, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It brings sound, code and embodied movement into authored creative practice without reducing culture or people to generic data.
