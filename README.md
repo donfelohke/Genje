@@ -1,6 +1,6 @@
 # GENJE — EXPRESSION
 
-**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
+**GENJE / GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 **Penye NIA, Pana Njia.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
