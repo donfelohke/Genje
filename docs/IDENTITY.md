@@ -46,3 +46,10 @@ The visual language should be authored and editorial: rhythm without clutter, ma
 - Inflating research sketches into released platforms or performances.
 - Treating culture, bodies or participants as generic training data.
 - Presenting unlicensed or unapproved media as cleared campaign assets.
+
+
+## Shared brand-platform relationship — 2026-11-24
+
+The current enterprise lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos is **GRACE · GRIT · GLORY** and the creative signature is **GENJE ZA WARENA**. GENJE remains an independent cultural and embodied creative practice; it is not a WARENA product, subsidiary, checkout or commercial division. The master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.**
+
+“The Fire of the Formidable” remains an authored creative interpretation, not a universal translation or settled etymology. Continue to attribute context-sensitive Sheng explanations to their sources. See the [canonical Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
