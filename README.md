@@ -1,7 +1,6 @@
 # GENJE — EXPRESSION
 
 **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
-**Penye NIA, Pana Njia.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
 GENJE is the **EXPRESSION** domain in the F3L0H practice: Genge-rooted sound and aesthetics, AfroTech, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It brings sound, code and embodied movement into authored creative practice without reducing culture or people to generic data.
@@ -81,3 +80,12 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 **ONLY NAKEBUSEN TRANSACTS.** Keep creative works, research, rights, credits and maturity labels explicit.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Current identity relationship — 2026-11-24
+
+**GENJE ZA WARENA** is the creative expression within the shared signature **NAKEBUSEN · WARENA POWERED**. GENJE remains an independent cultural and embodied creative practice—not a product, subsidiary, service checkout or commercial unit of WARENA. The shared ethos is **GRACE · GRIT · GLORY**; the master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.**
+
+“The Fire of the Formidable” remains an authored creative interpretation, not a universal translation or settled etymology. Preserve context-sensitive Sheng usage and attribution.
+
+See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the shared brand architecture and naming-evidence policy.
