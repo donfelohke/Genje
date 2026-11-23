@@ -64,3 +64,20 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 ---
 
 **GENJE · EXPRESSION · CREATIVE FORCE**
+
+## GENJE ZA WARENA — identity relationship
+
+**GENJE** is the embodied creative expression of DON FELOH: Genge-rooted sound and aesthetics, livecoding, audiovisual experimentation, movement, choreography, choreohacking and livity.
+
+**GENJE ZA WARENA** is an authored creative signature and relationship to technical enablement. It does not make GENJE a WARENA product, company, checkout or subsidiary. WARENA remains the distinct GRIT / CAPABILITY practice; NAKEBUSEN remains the GRACE / ROOT commercial practice; IKAI remains reflective research.
+
+**GRACE · GRIT · GLORY** is the shared philosophy:
+- GRACE → NAKEBUSEN: beauty, heritage, craft and dignity.
+- GRIT → WARENA: freedom, engineering and infrastructure.
+- GLORY → DON FELOH: authorship, expression and becoming.
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+**ONLY NAKEBUSEN TRANSACTS.** Keep creative works, research, rights, credits and maturity labels explicit.
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
