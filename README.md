@@ -84,3 +84,7 @@ Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](http
 ## Ecosystem alignment · 2026-11-24
 
 See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
+
+## GENJE ZA WARENA identity · 2026-11-24
+
+See the [GENJE ZA WARENA Creative Identity](docs/GENJE-ZA-WARENA-CREATIVE-IDENTITY-2026-11-24.md) and the [FELOH Corpus Brand Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md). Creative attribution, rights and maturity remain work-specific.
