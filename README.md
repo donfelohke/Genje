@@ -111,3 +111,8 @@ See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh
 See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) and [GENJE ZA WARENA Creative Identity](docs/GENJE-ZA-WARENA-CREATIVE-IDENTITY-2026-11-24.md) for creative-domain boundaries, identity, evidence and provenance requirements.
 
 Canonical shared identity: [FELOH Corpus Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
+
+
+## Research addition · 2026-11-24
+
+See [Movement Notation and Interoperability Validation](docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) for the source-grounded research and proposed validation protocol. This document is research, not an implementation or compliance claim.
