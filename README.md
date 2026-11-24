@@ -81,7 +81,11 @@ See [GENJE Creative and Campaign Copy Guide](docs/COPY-APPLICATION-2026-11-24.md
 - GRIT → WARENA: freedom, engineering and infrastructure.
 - GLORY → DON FELOH: authorship, expression and becoming.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **ONLY NAKEBUSEN TRANSACTS.** Keep creative works, research, rights, credits and maturity labels explicit.
 
