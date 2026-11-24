@@ -64,6 +64,10 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 
 **GENJE · EXPRESSION · CREATIVE FORCE**
 
+## Copy application — 2026-11-24
+
+See [GENJE Creative and Campaign Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) for domain descriptions, campaign language, art direction, rights and maturity controls.
+
 ## GENJE ZA WARENA — identity relationship
 
 **GENJE** is the embodied creative expression of DON FELOH: Genge-rooted sound and aesthetics, livecoding, audiovisual experimentation, movement, choreography, choreohacking and livity.
