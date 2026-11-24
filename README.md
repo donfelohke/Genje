@@ -29,6 +29,7 @@ TidalCycles, SuperCollider, Hydra and related systems are tools in the explored 
 
 ## Research and practice
 
+- [Movement Notation and Interoperability Validation (2026-11-24)](docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) — provenance-aware movement notation and proposed exchange/validation work.
 - [Kinetics, Livecoding & Reflective Interaction](docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — movement dynamics, notation, livecoded sound/visual streams and participant-authored reflection.
 - [Embodied spatial interaction research](docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) — GENJE's bounded contribution to IKAI MIRROR research.
 - [GENJE ZA WARENA launch creative brief](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md) — founder-led campaign hierarchy and source-image review requirements.
