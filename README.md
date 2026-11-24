@@ -1,5 +1,7 @@
 # GENJE — EXPRESSION
 
+**GENJE / GENJE ZA WARENA** is the canonical creative identity wording used by the repository validation and the shared brand system.
+
 **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
