@@ -5,7 +5,7 @@
 **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
-GENJE is the **GLORY / EXPRESSION** practice: Genge-rooted sound and aesthetics, E-Genge, algorithmic club music, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It brings sound, code, rhythm and embodied movement into authored creative work without reducing distinct cultures or people to generic data.
+GENJE is the **EXPRESSION** domain of DON FELOH's **GLORY** practice: Genge-rooted sound and aesthetics, E-Genge, algorithmic club music, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It brings sound, code, rhythm and embodied movement into authored creative work without reducing distinct cultures or people to generic data.
 
 “The Fire of the Formidable” is an adopted creative interpretation—not a universal translation or established etymology.
 
