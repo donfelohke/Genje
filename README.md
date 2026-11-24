@@ -1,5 +1,7 @@
 # GENJE — EXPRESSION
 
+**GENJE / GENJE ZA WARENA** names the creative practice and its authored signature within the wider FELOH identity.
+
 **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
@@ -63,6 +65,10 @@ License: see [LICENSE](LICENSE). Read the repository contribution and asset rule
 ---
 
 **GENJE · EXPRESSION · CREATIVE FORCE**
+
+## Copy application — 2026-11-24
+
+See [GENJE Creative and Campaign Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) for domain descriptions, campaign language, art direction, rights and maturity controls.
 
 ## GENJE ZA WARENA — identity relationship
 
