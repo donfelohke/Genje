@@ -73,3 +73,8 @@ See [LICENSE](LICENSE) and [CONTRIBUTING](CONTRIBUTING.md) before proposing work
 ## Shared identity alignment · 26 November 2026
 
 **GLORY → GENJE / GENJENESS** is the current pillar mapping: greatness through creative expression, culture, sound, movement and excellence. FELOH remains the human author. GENJE remains an independent creative practice; GENJE ZA WARENA expresses a creative and enabling relationship, not a merger or transfer of ownership. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
+
+
+## Documentation index
+
+See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
