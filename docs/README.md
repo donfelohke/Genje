@@ -35,3 +35,7 @@ GENJE is the EXPRESSION practice: Genge-rooted sound, E-Genge, livecoding, music
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — ROOT enterprise and sole transaction interface.
 
 **GLORY → GENJE / GENJENESS.** GENJE is creative practice, not a separate checkout brand. **ONLY NAKEBUSEN TRANSACTS.**
+
+## Cooperative and embodied computing — 2026-11-27
+
+- [Cross-domain synthesis in FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — connects livecoding, movement, spatial interaction, federated creative infrastructure and cooperative ownership. GENJE remains the source of record for creative practice, movement interoperability and provenance.
