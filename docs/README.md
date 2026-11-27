@@ -24,6 +24,7 @@ GENJE is the EXPRESSION practice: Genge-rooted sound, E-Genge, livecoding, music
 - [Creative identity and GENJE ZA WARENA](GENJE-ZA-WARENA-CREATIVE-IDENTITY-2026-11-24.md).
 
 ## Research
+- [TidalCycles, SuperCollider and live audiovisual research (2026-11-27)](TIDALCYCLES-SUPERCOLLIDER-LIVECODING-RESEARCH-2026-11-27.md) — component architecture, Emacs / SCIDE roles, timing, reproducibility and validation work packages.
 - [Technology, scholarship and industry landscape](GENJE-TECHNOLOGY-SCHOLARSHIP-INDUSTRY-LANDSCAPE-2026-11-20.md).
 - [Research directory](research/).
 
