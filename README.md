@@ -1,6 +1,7 @@
 # GENJE — EXPRESSION
 
 **GLORY → GENJE / GENJENESS**  
+**Authored English interpretation:** GREATNESS.  
 Genge-rooted sound · E-Genge · Livecoding · Music · Movement · Choreography
 
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
