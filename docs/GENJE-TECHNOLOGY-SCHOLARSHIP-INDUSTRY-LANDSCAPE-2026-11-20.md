@@ -69,7 +69,7 @@ Core sources:
 - Music-driven dance generation review (2026): https://doi.org/10.1016/j.neucom.2026.133466
 - FACT / AI Choreographer: https://openaccess.thecvf.com/content/ICCV2021/html/Li_AI_Choreographer_Music_Conditioned_3D_Dance_Generation_With_AIST_ICCV_2021_paper.html
 - AIST++: https://google.github.io/aistplusplus_dataset/
-- FineDance: https://openaccess.thecvf.com/content/ICCV2023/html/Li_FineDance_A_Fine-grained_Choreography_Dataset_for_3D_Full_Body_Dance_Generation_ICCV_2023_paper.html
+- FineDance: https://li-ronghui.github.io/finedance
 - LaMoGen: https://arxiv.org/abs/2603.11605
 - LLaMo: https://openaccess.thecvf.com/content/CVPR2026/html/Li_LLaMo_Scaling_Pretrained_Language_Models_for_Unified_Motion_Understanding_and_CVPR_2026_paper.html
 - LAMP: https://openaccess.thecvf.com/content/CVPR2026/html/Kizil_LAMP_Language-Assisted_Motion_Planning_for_Controllable_Video_Generation_CVPR_2026_paper.html
