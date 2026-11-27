@@ -71,3 +71,7 @@ See [GENJE living practice and creative systems update](ECOSYSTEM-UPDATE-2026-11
 ## Reflective systems and real-time I/O collaboration
 
 GENJE's contribution is authored movement, choreography, livecoding and creative interpretation. See [IKAI's mirror and bidirectional I/O research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) and [WARENA's display/I/O pipeline study](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md). No motion-capture or sensor integration is claimed.
+
+## Cooperative networks and embodied media — 2026-11-27
+
+- [Cross-domain cooperative/federated computing synthesis](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — cross-project context for creator-controlled media, livecoding, spatial I/O and worker-owned infrastructure. The [GENJE cooperative networks and embodied media study](research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) remains the detailed GENJE record.
