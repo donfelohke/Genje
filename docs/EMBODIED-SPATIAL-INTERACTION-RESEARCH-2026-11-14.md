@@ -95,6 +95,6 @@ Gaze may identify a target; a hand/controller may manipulate it. Neither should 
 No movement stream may be used to infer identity, emotion, health, personality, ability or intent. AI-assisted creative tools, if ever studied, remain opt-in and subordinate to performer authorship.
 
 The cross-project visual and interaction research record is:
-https://donfelohke.github.io/research/glass-terminal/
+https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/NAKEBUSEN-EDITORIAL-ROOTED-GLASS-TERMINAL-DESIGN.md
 
 This alignment does not claim an XR performance environment, motion-capture system, spatial audio engine or Glass Terminal implementation.
