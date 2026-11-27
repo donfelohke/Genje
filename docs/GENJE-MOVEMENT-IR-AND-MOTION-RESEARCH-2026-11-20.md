@@ -141,7 +141,7 @@ Key research references:
 - [LAMP — CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Kizil_LAMP_Language-Assisted_Motion_Planning_for_Controllable_Video_Generation_CVPR_2026_paper.html)
 - [FACT / AI Choreographer — ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Li_AI_Choreographer_Music_Conditioned_3D_Dance_Generation_With_AIST_ICCV_2021_paper.html)
 - [AIST++ project and dataset documentation](https://google.github.io/aistplusplus_dataset/)
-- [FineDance — ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/FineDance)
+- [FineDance — ICCV 2023](https://li-ronghui.github.io/finedance)
 - [DanceLDM (2026)](https://doi.org/10.1007/s00530-026-02311-z)
 - [Labanotation generation from motion capture — IEEE Access (2021)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=The%20Method%20of%20Dance%20Movement%20Segmentation%20and%20Labanotation%20Generation%20Based%20on%20Rhythm)
 - [End-to-end Labanotation generation from continuous motion capture — IEEE ICME (2020)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=end-to-end%20Labanotation%20generation)
@@ -342,7 +342,7 @@ No single metric can stand in for all of these.
 - [LaMoGen CVPR supplementary material](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Jiang_LaMoGen_Language_to_CVPR_2026_supplemental.pdf).
 - [AIST++ dataset documentation and terms](https://google.github.io/aistplusplus_dataset/).
 - [FineDance, ICCV 2023](https://li-ronghui.github.io/finedance).
-- [FACT, ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_เน).
+- The duplicate FACT reference was removed; the verified [FACT / AI Choreographer — ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Li_AI_Choreographer_Music_Conditioned_3D_Dance_Generation_With_AIST_ICCV_2021_paper.html) paper link above is the source of record.
 - [ChoreDiffusion: Beat-Aware Diffusion for Music-to-Dance Generation (2026)](https://doi.org/10.3390/info17080808).
 - [Labanotation generation from motion capture — IEEE Access search record](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Labanotation%20Generation%20Based%20on%20Rhythm).
 - [End-to-end Labanotation generation — IEEE ICME search record](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=end-to-end%20Labanotation%20generation).
