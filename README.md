@@ -7,7 +7,7 @@ Genge-rooted sound · E-Genge · Livecoding · Music · Movement · Choreography
 
 GENJE is an authored creative practice exploring sound, algorithmic music, livecoding, movement, choreography and embodied performance. It brings musical and movement practices into dialogue without reducing one to the other.
 
-**GENJE ZA WARENA** is a creative and enabling relationship. GENJE remains a distinct practice, not a WARENA subsidiary, product line or commercial checkout. **ONLY NAKEBUSEN TRANSACTS.**
+**GENJE / GENJE ZA WARENA** expresses a creative and enabling relationship. GENJE remains an independent practice; it is not a WARENA product, company, subsidiary, checkout or booking surface. **ONLY NAKEBUSEN TRANSACTS.**
 
 ## Start here
 
