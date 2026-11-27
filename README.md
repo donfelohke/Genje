@@ -1,80 +1,67 @@
 # GENJE — EXPRESSION
 
-**GENJE / GENJE ZA WARENA** names the creative practice and its authored signature within the wider FELOH identity.
+**GLORY → GENJE / GENJENESS**  
+Genge-rooted sound · E-Genge · Livecoding · Music · Movement · Choreography
 
-**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
-GENJE is the **EXPRESSION** domain of DON FELOH's **GLORY** practice: Genge-rooted sound and aesthetics, E-Genge, algorithmic club music, livecoding, audiovisual experimentation, movement, choreography and choreohacking. It brings sound, code, rhythm and embodied movement into authored creative work without reducing distinct cultures or people to generic data.
+GENJE is an authored creative practice exploring sound, algorithmic music, livecoding, movement, choreography and embodied performance. It brings musical and movement practices into dialogue without reducing one to the other.
 
-“The Fire of the Formidable” is an adopted creative interpretation—not a universal translation or established etymology.
+**GENJE / GENJE ZA WARENA** expresses a creative and enabling relationship. GENJE remains an independent practice; it is not a WARENA product, company, subsidiary, checkout or booking surface. **ONLY NAKEBUSEN TRANSACTS.**
 
-## Naming and cultural context
+## Start here
 
-*Genje* is a living, context-sensitive Sheng expression. Sources record senses including trouble or problems, while music-scene usage also associates it with a formidable or hardcore crew or quality. These meanings should not be collapsed into one fixed definition.
+- [Practice](docs/PRACTICE.md) · [Identity](docs/IDENTITY.md) · [Relationships](docs/RELATIONSHIPS.md).
+- [Knowledge base index](docs/knowledge-base-index.md).
+- [Movement IR and motion research](docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md).
+- [Movement and music interoperability study](docs/GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md).
+- [Movement notation and interoperability validation](docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md).
+- [Creative practice and provenance](docs/creative-practice-and-provenance.md) · [Asset provenance](docs/asset-provenance.md).
+- [Documentation index](docs/README.md).
 
-Mbogi Genje members have offered their own explanation of the group name as a formidable, united force. That is an attributed artist interpretation, not a universal dictionary definition. *Genjeness* and *His Genjeness* are authored English–Sheng formations used here as identity language.
+## Research and technical direction
 
-The related word *warena* is also recorded in Kenyan Sheng with meanings including fire and formidable energy. WARENA's technical expansion is a separate owner-defined construction; shared spelling and resonance do not prove shared historical etymology. See the [FELOH Corpus naming and Sheng context note](https://github.com/donfelohke/feloh-corpus/blob/main/docs/warena-name-and-sheng-context-2026-11-17.md).
+GENJE treats movement and sound as related but distinct time-based practices. Research distinguishes:
 
-## Practice
+1. A human-authored choreography or score.
+2. A notation transcription and its author/notator.
+3. An observed performance with its context.
+4. Sensor measurements with calibration and uncertainty.
+5. A digital skeleton or animation representation.
+6. A musical or event timeline.
+7. A researcher's interpretation.
 
-- Genge, E-Genge, AfroTech, neo-soul, reggae, dancehall and rhythm studies.
-- Algorithmic music, livecoding and audiovisual performance.
-- Movement, dance, choreography, improvisation and Laban-informed study.
-- Choreohacking: experiments connecting movement scores, timing, sound, code and performance.
-- Creative direction, campaign briefs, performance records, credits and provenance.
+These records must not be collapsed into a single supposedly neutral representation. Conversions require explicit adapters, provenance, coordinate/timebase metadata and a report of information lost or transformed.
 
-TidalCycles, SuperCollider, Hydra and related systems are tools explored in the practice; their mention does not establish that a particular environment is installed or a work released.
+Current studies examine Labanotation / Kinetography Laban, Benesh Movement Notation, Motif, C3D, BVH, FBX, OSC and MIDI. They are not interchangeable formats: each has a distinct purpose, abstraction level, notation practice and provenance requirement.
 
-## Research and records
+The [24 November interoperability validation record](docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) is a proposed protocol. It does not claim an implemented parser, converter, motion-capture pipeline, notation corpus or completed round-trip benchmark.
 
-- [Movement Notation and Interoperability Validation (2026-11-24)](docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) — provenance-aware movement notation and proposed exchange/validation work.
-- [Cooperative Networks and Embodied Media (2026-11-23)](docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled exchange, local collaboration, interoperability, rights and consent; research only.
-- [Kinetics, Livecoding & Reflective Interaction](docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — movement dynamics, notation, livecoded sound/visual streams and participant-authored reflection.
-- [Embodied spatial interaction research](docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) — GENJE's bounded contribution to IKAI MIRROR research.
-- [Creative and Campaign Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) — domain descriptions, campaign language, art direction, rights and maturity controls.
-- [GENJE ZA WARENA launch creative brief](docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md) — campaign hierarchy and source-image review requirements.
-- [Repository documentation](docs/) — dated research and creative records.
+## Creative and research principles
 
-These are research and creative records. They do not claim a motion-capture implementation, commercial product, released performance system or approved campaign image.
+- **Authorship and credit:** identify composers, performers, choreographers, notators, collaborators and source communities accurately.
+- **Consent and rights:** record permissions, restrictions and intended uses before publication or reuse.
+- **Embodied context:** do not treat a score, sensor stream or motion model as a complete substitute for lived practice.
+- **Interoperability:** preserve original artefacts and document every transformation and its losses.
+- **Reproducibility:** record source versions, tools, settings, timing, coordinate frames and validation outcomes.
+- **Reuse before invention:** evaluate established notation, formats, tools and scholarship; adapt and credit rather than recreate unnecessarily.
+- **Honest maturity:** distinguish concept, research, prototype, performance, implementation and validated interoperability.
 
-## Creative direction
+## Wider practice
 
-Keep the work authored, rhythmically alive and culturally situated. Use clear hierarchy, deliberate negative space, tactile material cues and legible typography. Name specific sonic, material and cultural references where relevant; do not flatten them into generic labels.
+- [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared identity, governance, evidence and provenance.
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — GRACE / ROOT: beauty, heritage, craft and sole transaction interface.
+- [WARENA](https://github.com/donfelohke/WARENA) — GRIT / CAPABILITY: libre-first systems engineering and infrastructure.
+- [IKAI](https://github.com/donfelohke/Ikai) — MIRROR / reflective-computing research.
+- [Gallery](https://github.com/donfelohke/Gallery) — asset rights, consent, provenance and approval.
 
-Avoid generic luxury templates, decorative tech clutter, forced slang, unsupported cultural claims, default Rasta shorthand, neon-AI haze and collage without compositional logic. Keep the human creator and the work central.
+FELOH remains the human author and decision-maker. GLORY expresses creative greatness through GENJE / GENJENESS; it does not replace or rename the human author.
 
-## Boundaries and ecosystem
+## Stewardship
 
-GENJE is an independent creative domain—not a WARENA product, company, subsidiary, checkout or booking surface. **ONLY NAKEBUSEN TRANSACTS.**
-
-| Identity | Responsibility |
-|---|---|
-| [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Shared canon, evidence and provenance |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | ROOT practice and sole commercial interface |
-| [WARENA](https://github.com/donfelohke/WARENA) | CAPABILITY systems engineering |
-| [IKAI](https://github.com/donfelohke/Ikai) | MIRROR reflective-computing research |
-| [Gallery](https://github.com/donfelohke/Gallery) | Asset rights, consent and approval |
-
-IKAI's [REFLECTION± research](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) studies bidirectional optical-computational systems. GENJE contributes movement, choreography, livecoding and participant-led creative context—not sensor infrastructure or automated interpretation. Any sensing remains optional, consent-based and a research proposal until tested.
-
-## Evidence and maturity
-
-Label work accurately: **LIVE · PROTOTYPE · RESEARCH · CONCEPT · HISTORICAL · SUPERSEDED · UNKNOWN**. A document, source file, repository or recording is not by itself proof of a released system or reproducible performance. Record what was actually tested or performed.
-
-See [LICENSE](LICENSE) and [CONTRIBUTING](CONTRIBUTING.md) before proposing work. For the shared identity system, see the [FELOH Corpus identity specification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md) and the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
+See [STEWARDSHIP.md](docs/STEWARDSHIP.md), [CONTRIBUTING.md](CONTRIBUTING.md), [GOVERNANCE.md](GOVERNANCE.md) and [SECURITY.md](SECURITY.md). Do not publish an asset, score, performance recording or derived dataset merely because it is present in the repository.
 
 ---
 
-**GENJE · EXPRESSION · CREATIVE FORCE**
-
-
-## Shared identity alignment · 26 November 2026
-
-**GLORY → GENJE / GENJENESS** is the current pillar mapping: greatness through creative expression, culture, sound, movement and excellence. FELOH remains the human author. GENJE remains an independent creative practice; GENJE ZA WARENA expresses a creative and enabling relationship, not a merger or transfer of ownership. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
-
-
-## Documentation index
-
-See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
+**GENJE · EXPRESSION · GLORY**  
+**GENJE ZA WARENA**
