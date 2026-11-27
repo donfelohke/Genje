@@ -1,7 +1,7 @@
 # GENJE — Canonical Alignment Addendum · 27 November 2026
 
 **GLORY → GENJE / GENJENESS · EXPRESSION**  
-**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.**
+**GENJE ZA WARENA — GREATNESS · THE POWERFUL.**
 
 ## GENJE as the creative node
 
@@ -9,7 +9,7 @@ GENJE is the founder-authored creative identity and practice node: Genge-rooted 
 
 ## GENJENESS
 
-The English suffix **-ness** forms an abstract noun expressing a quality, state or condition. **GENJENESS** is the authored extension of GENJE: the quality, character or condition of being GENJE; formidable creative greatness in expression. This is a creative construction, not a claim that GENJENESS is an established Sheng dictionary entry.
+The English suffix **-ness** forms an abstract noun expressing a quality, state or condition. **GENJENESS** is the authored extension of GENJE: the quality, character or condition of being GENJE; creative greatness in expression. GENJE's authored English interpretation is **GREATNESS**; this is a brand interpretation, not a dictionary translation. This is a creative construction, not a claim that GENJENESS is an established Sheng dictionary entry.
 
 ## SHENG / SHENGE / genje
 
@@ -22,9 +22,9 @@ Keep these layers distinct:
 
 ## GENJE ZA WARENA
 
-Retain the full compound identity **GENJE ZA WARENA**. The phrase expresses creative association and enabling relationship. “Powered by WARENA” is an audience-facing explanatory gloss, not a word-for-word translation of *za*. WARENA provides technical capability; GENJE creates and performs. The creator retains authorship.
+Retain the full compound identity **GENJE ZA WARENA**. The phrase expresses creative association and enabling relationship. “Powered by WARENA” is an audience-facing explanatory gloss, not a word-for-word translation of *za*. GENJE's authored English interpretation is **GREATNESS**; WARENA's authored English interpretation is **THE POWERFUL**. These are distinct brand interpretations, not interchangeable synonyms or verified literal translations. WARENA provides technical capability; GENJE creates and performs. The creator retains authorship.
 
-**“The Fire of the Formidable”** is the adopted creative interpretation, not a verified literal translation of GENJE, SHENGE or ZA WARENA.
+Any additional poetic line may be used as a campaign expression only when explicitly approved; it must not replace the canonical interpretations or be presented as a literal translation.
 
 ## Place in BLACK EXCELLENCE
 
