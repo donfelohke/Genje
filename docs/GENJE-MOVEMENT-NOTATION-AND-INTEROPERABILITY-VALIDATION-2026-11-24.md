@@ -25,7 +25,7 @@ A conversion may preserve some information while losing other information. The s
 
 Labanotation is a symbolic movement-notation system with a trained reading and writing practice. The Library of Congress Dance Notation Collection finding aid identifies historical Labanotation and Benesh scores as distinct archival holdings. Harvard Library's performing-arts research guide likewise treats dance notation as a family of systems rather than one universal notation.
 
-- [Library of Congress — Dance Notation Collection](https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/mu020028/mu020028.pdf)
+- Library of Congress Finding Aids search portal: https://findingaids.loc.gov/ (the legacy direct PDF path returned 404; the exact collection record has not yet been re-identified)
 - [Harvard Library — Primary Sources for Performing Arts Research: Dance Notation](https://guides.library.harvard.edu/c.php?g=1294023&p=9509243)
 - [Ohio State University Department of Dance — Research and notation resources](https://dance.osu.edu/research/dnb/resources)
 
@@ -129,7 +129,7 @@ This tests the research workflow without turning a performer into a dataset or r
 
 ## 8. References
 
-- [Library of Congress Dance Notation Collection](https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/mu020028/mu020028.pdf).
+- Library of Congress Finding Aids search portal: https://findingaids.loc.gov/ (legacy direct PDF path returned 404; exact collection record remains unverified).
 - [Harvard Library performing-arts research guide](https://guides.library.harvard.edu/c.php?g=1294023&p=9509243).
 - [Ohio State University Dance Notation resources](https://dance.osu.edu/research/dnb/resources).
 - Watts (2015), [Benesh Movement Notation and Labanotation](https://doi.org/10.1080/01472526.2015.1085227).
